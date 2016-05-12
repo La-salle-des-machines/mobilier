@@ -1,2 +1,2 @@
-# mobilier
-Le mobilier de l'atelier
+# Ressource mobilier
+Ce dépôt contient les modèles open-source intéressants pour la Salle des Machines
