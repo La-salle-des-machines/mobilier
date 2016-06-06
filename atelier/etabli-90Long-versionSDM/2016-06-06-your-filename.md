@@ -4,7 +4,7 @@ Ce dossier contient les fichiers de design et de fabrication pour une fraiseuse 
 
 ###Sources
 Le design a été recréé à partir de l'idée du [WorkBench d'Obrary](http://obrary.com/products/makerbench-series-3 "Workbench d'Obrary").
-![illustration Établi d'Obrary]({{site.baseurl}}/atelier/etabli-90Long-versionSDM/DSC_0294_1024x1024.jpg)
+![illustration Établi d'Obrary](./atelier/etabli-90Long-versionSDM/DSC_0294_1024x1024.jpg)
 
 ### Modifications
 Les modifications suivantes ont été apportées :
