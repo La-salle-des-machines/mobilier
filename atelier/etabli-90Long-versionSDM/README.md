@@ -14,6 +14,6 @@ Les modifications suivantes ont été apportées :
 * Ajout d'un montant interne supplémentaire pour augmenter la rigidité.
 
 ### Arborescence
-**Sources** : les fichiers dxf ainsi que le fichier freeCAD contenant le design initial. Voir sources/README pour plus d'informations
-**galaad** : fichier de configuration de Galaad pour l'usinage
+**Sources** : les fichiers dxf ainsi que le fichier freeCAD contenant le design initial. Voir sources/README pour plus d'informations.
 
+**galaad** : fichier de configuration de Galaad pour l'usinage
